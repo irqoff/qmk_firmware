@@ -64,3 +64,5 @@
 
 /* Enable caps-lock LED */
 #define CAPS_LOCK_LED_INDEX 45
+
+#define TAP_CODE_DELAY 50
